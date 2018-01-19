@@ -1,7 +1,7 @@
 ID <- c(257, 259, 755, 1197, 1224, 1346, 1602, 2074, 2638, 2712, 2814, 3257, 3402, 3761, 3927, 4094, 4175, 4300, 4703, 4887, 4928, 4931, 5229, 5275, 1443, 1468, 4169, 5664, 5731, 5906)
 #problematic ID's: 1443, 1468, 4169, 5664, 5731, 5906
 
-path <- "K:/Hydrologie/Data Collection, Data Storage, Data Management/ClimateChange/BW_Climate_1977_2016/BW_Climate_1977_2016.txt"
+#path <- "K:/Hydrologie/Data Collection, Data Storage, Data Management/ClimateChange/BW_Climate_1977_2016/BW_Climate_1977_2016.txt"
 raw_data <- read_tsv(path)
 
 
